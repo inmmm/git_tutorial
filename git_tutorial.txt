@@ -1,2 +1,3 @@
 git_tutorial
-git add,commit,statusの流れを確認
+git diff,diff --staged,logの流れを確認
+(旧2行目を削除して確認)
