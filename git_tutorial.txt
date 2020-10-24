@@ -1,1 +1,2 @@
 git_tutorial
+git add,commit,statusの流れを確認
