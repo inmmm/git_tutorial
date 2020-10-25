@@ -1,0 +1,3 @@
+git pull
+リモートリポジトリからローカルにマージ
+(≒git fetch → git merge)
