@@ -1,3 +1,3 @@
 git_tutorial
 git diff,diff --staged,logの流れを確認
-(旧2行目を削除して確認)
+git commit --amend
