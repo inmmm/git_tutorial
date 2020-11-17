@@ -1,2 +1,2 @@
 branch master
-
+git merge(他の人がmasterブランチの内容を変更した想定)
