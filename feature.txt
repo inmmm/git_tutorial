@@ -1,0 +1,2 @@
+branch feature
+git merge(Auto Merge想定)
