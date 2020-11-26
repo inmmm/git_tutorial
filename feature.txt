@@ -1,0 +1,3 @@
+branch feature
+git merge(Auto Merge想定
+conflict occured

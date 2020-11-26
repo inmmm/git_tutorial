@@ -1,2 +1,3 @@
 branch master
 git merge(他の人がmasterブランチの内容を変更した想定)
+意図的にconflictを発生させる
